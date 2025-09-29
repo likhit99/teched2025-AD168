@@ -2,10 +2,10 @@
 
 In this exercise we will learn how to use Joule for Developers capabilities of SAP Build in Process Automation. We will use following features to create a sample Purchase Requisition Approval process:
 
-Generate Process Template
-Generate Form
-Generate Script
-Generate Business Rules
+Generate Process Template<br>
+Generate Form<br>
+Generate Script<br>
+Generate Business Rules<br>
 
 ## Level 2 Heading
 
