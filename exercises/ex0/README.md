@@ -15,8 +15,10 @@ Login to SAP Build Lobby Navigate to Control Tower and ensure "Enable Generative
 ## Project Creation
 
 1. Login to SAP Build Lobby and Click on create > Process Automation
-<br>![](/exercises/ex0/images/create project.png)
+<br>![](/exercises/ex0/images/ProjectCreation.png)
 
+2.Enter project Name & Description and click Create. This will create a project with given name & description.
+<br>![](/exercises/ex0/images/ProjectCreation.png)
    
 3.	Insert this code.
 ``` abap
