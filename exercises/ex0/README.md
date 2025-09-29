@@ -1,6 +1,11 @@
 # Level 1 Heading
 
-In this exercise, you will...
+In this exercise we will learn how to use Joule for Developers capabilities of SAP Build in Process Automation. We will use following features to create a sample Purchase Requisition Approval process:
+
+Generate Process Template
+Generate Form
+Generate Script
+Generate Business Rules
 
 ## Level 2 Heading
 
