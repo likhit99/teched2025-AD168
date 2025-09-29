@@ -28,6 +28,17 @@ In this step we will generate Purchase Requisition Approval process template usi
 <br>![](/exercises/ex0/images/GenProc.png)
 
 2.Enter following prompt "Generate an empty process template called Purchase Requisition with an approval form" and click on send icon<br>
+<br>![](/exercises/ex0/images/GenProcPromt.png)
+
+ System will create a process template and open design editor to continue designing the process<br>
+ <br>![](/exercises/ex0/images/ProcTemp.png)
+
+## Form Generation
+
+1. In this step we will generate a form using Generative AI and use it as Trigger Form to start the process.<br>
+
+2.Click on "+" button after "Add a Trigger" step. From Smart Menu, select Form.
+
 
    
 3.	Insert this code.
