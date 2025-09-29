@@ -12,7 +12,12 @@ In this exercise we will learn how to use Joule for Developers capabilities of S
 Login to SAP Build Lobby Navigate to Control Tower and ensure "Enable Generative AI" is enabled.
 <br>![](/exercises/ex0/images/GenAI.png)
 
-2.	Insert this code.
+## Project Creation
+
+1. Login to SAP Build Lobby and Click on create > Process Automation<br>
+2. 
+   
+3.	Insert this code.
 ``` abap
  DATA(params) = request->get_form_fields(  ).
  READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
