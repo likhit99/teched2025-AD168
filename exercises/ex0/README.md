@@ -37,21 +37,21 @@ In this step we will generate Purchase Requisition Approval process template usi
 
 ## Form Generation
 
-1. In this step we will generate a form using Generative AI and use it as Trigger Form to start the process.
+In this step we will generate a form using Generative AI and use it as Trigger Form to start the process.
 
-2. Click on "+" button after "Add a Trigger" step. From Smart Menu, select Form.<br>
+1. Click on "+" button after "Add a Trigger" step. From Smart Menu, select Form.<br>
 <br>![](/exercises/ex0/images/Form.png)
 
-3.	Enter the prompt to generate PR Submission Form "Create PR Submission Form with fields Company, Supplier, Delivery Address, Delivery Date, Payment Terms, Requested By and Department and a table with fields Item, Description, Quantity, Item Price".<br>
+2.	Enter the prompt to generate PR Submission Form "Create PR Submission Form with fields Company, Supplier, Delivery Address, Delivery Date, Payment Terms, Requested By and Department and a table with fields Item, Description, Quantity, Item Price".<br>
 <br>![](/exercises/ex0/images/PRSubForm.png)
 
-4. Once the form is generated, Click on Save
+3. Once the form is generated, Click on Save
 <br>![](/exercises/ex0/images/Save.png)
 
-5. Click on Add a Trigger, select Submit a Form, choose the form which we created in the last step and Save.
+4. Click on Add a Trigger, select Submit a Form, choose the form which we created in the last step and Save.
 <br>![](/exercises/ex0/images/Trigger.png)
 
-Click on image to open side process panel, select Variables, configure a process custom variable "totalprice" (of string type) and Save the process.
+5. Click on <br>![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables, configure a process custom variable "Totalprice" (of string type) and Save the process.
    
 
 
