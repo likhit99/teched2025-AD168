@@ -85,7 +85,7 @@ In this step we will write a custom script using Generative AI to calculate tota
  <br>![](/exercises/ex0/images/Decision.png)
    
  2. Click on Blank Decision<br>
- <br>![](/exercises/ex0/images/Decision.png) 
+ <br>![](/exercises/ex0/images/BlankDec.png) 
    
  3. Give the name as "Determine Approver" and click on Create.<BR>
  <br>![](/exercises/ex0/images/CreateDec.png)
