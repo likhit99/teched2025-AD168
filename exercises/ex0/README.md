@@ -103,7 +103,7 @@ Note: Replace email ID with valid process automation user email id for testing p
 <br>![](/exercises/ex0/images/AvailableDec.png)
 
 7. On the right-hand side panel select Inputs, map Supplier with Supplier from PR Submission Form (Trigger) and Save the process.
-<br>![](/exercises/ex0/images/AvailableDec.png)
+<br>![](/exercises/ex0/images/MapInput.png)
 
 
 9.	Insert this code.
