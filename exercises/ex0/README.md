@@ -46,10 +46,12 @@ In this step we will generate Purchase Requisition Approval process template usi
 <br>![](/exercises/ex0/images/PRSubForm.png)
 
 4. Once the form is generated, Click on Save
-<br>![](/exercises/ex0/images/PRSubForm.png)
+<br>![](/exercises/ex0/images/Save.png)
 
 5. Click on Add a Trigger, select Submit a Form, choose the form which we created in the last step and Save.
-<br>![](/exercises/ex0/images/PRSubForm.png)
+<br>![](/exercises/ex0/images/Trigger.png)
+
+Click on image to open side process panel, select Variables, configure a process custom variable "totalprice" (of string type) and Save the process.
    
 
 
