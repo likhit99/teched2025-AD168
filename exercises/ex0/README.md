@@ -63,7 +63,7 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 In this step we will write a custom script using Generative AI to calculate total price value and assign to custom variable.
 
 1. Click on ‘+’ next to Trigger, select Script Task from smart menu,
-<br>![](/exercises/ex0/images/RemoveForm.png)
+<br>![](/exercises/ex0/images/AddScriptTask.png)
 
 2. Click on Open Editor
 <br>![](/exercises/ex0/images/OpenEditor.png)
