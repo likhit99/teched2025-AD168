@@ -52,9 +52,10 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 <br>![](/exercises/ex0/images/Trigger.png)
 
 5. Click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables, configure a process custom variable "Totalprice" (of string type) and Save the process.<br>
-<br>![](/exercises/ex0/images/CustomVar.png) <br>![](/exercises/ex0/images/ConCustVar.png)
+<br>![](/exercises/ex0/images/CustomVar.png)<br>
+<br>![](/exercises/ex0/images/ConCustVar.png)
 
-6. Because we are using Product Information Form to Trigger the process, we will remove it from next step. Select Product Information Form, click on three dots, click on Remove and Save the process.
+7. Because we are using Product Information Form to Trigger the process, we will remove it from next step. Select Product Information Form, click on three dots, click on Remove and Save the process.
 
    
 
