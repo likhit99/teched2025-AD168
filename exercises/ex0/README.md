@@ -71,7 +71,7 @@ In this step we will write a custom script using Generative AI to calculate tota
 3. Select the existing script and delete it
 <br>![](/exercises/ex0/images/DeleteScript.png)
 
-3. Click on Generate, enter the following prompt "Generate script that calculates totalprice by looping through each element in $.context.form_InputForm_1.itemTable and calculates totalprice by multiplying $.context.form_InputForm_1.itemTable.itemPrice and $.context.form_InputForm_1.itemTable.quantity and convert to string and assign to $.context.custom.totalprice"
+3. Click on Generate, enter the following prompt "Generate script that calculates totalprice by looping through each element in $.context.startEvent.items and calculates totalprice by multiplying $.context.startEvent.items.itemPrice and $.context.startEvent.items.quantity and convert to string and assign to $.context.custom.totalprice"
 
  
 5.	Insert this code.
