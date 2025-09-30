@@ -81,10 +81,16 @@ In this step we will write a custom script using Generative AI to calculate tota
  
  In this step we will create a business rule using Generative AI to dynamically determine approvers of purchase requisitions.
 
- 1. After script task, click on "+", select Decision from smart menu, click on Blank Decision, give the name as "Determine Approver" and click on Create.<BR>
-
- 2. 
-6.	Insert this code.
+ 1. After script task, click on "+", select Decision from smart menu<br>
+ <br>![](/exercises/ex0/images/Decision.png)
+   
+ 2. Click on Blank Decision<br>
+ <br>![](/exercises/ex0/images/Decision.png) 
+   
+ 3. Give the name as "Determine Approver" and click on Create.<BR>
+ <br>![](/exercises/ex0/images/DeterApp.png)
+ 6. 
+7.	Insert this code.
 ``` abap
  DATA(params) = request->get_form_fields(  ).
  READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
