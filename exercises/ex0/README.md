@@ -72,9 +72,19 @@ In this step we will write a custom script using Generative AI to calculate tota
 <br>![](/exercises/ex0/images/DeleteScript.png)
 
 3. Click on Generate, enter the following prompt "Generate script that calculates totalprice by looping through each element in $.context.startEvent.items and calculates totalprice by multiplying $.context.startEvent.items.itemPrice and $.context.startEvent.items.quantity and convert to string and assign to $.context.custom.totalprice"
+<br>![](/exercises/ex0/images/GenScript.png)
 
+4. System will generate script, check if script is fine, Accept it, Validate Script, Apply and Save Process.
+<br>![](/exercises/ex0/images/GenScript.png)
+
+ ## Rules Generation
  
-5.	Insert this code.
+ In this step we will create a business rule using Generative AI to dynamically determine approvers of purchase requisitions.
+
+ 1. After script task, click on "+", select Decision from smart menu, click on Blank Decision, give the name as "Determine Approver" and click on Create.<BR>
+
+ 2. 
+6.	Insert this code.
 ``` abap
  DATA(params) = request->get_form_fields(  ).
  READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
