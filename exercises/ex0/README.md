@@ -88,6 +88,8 @@ In this step we will write a custom script using Generative AI to calculate tota
  <br>![](/exercises/ex0/images/Decision.png) 
    
  3. Give the name as "Determine Approver" and click on Create.<BR>
+
+ 4. Decision will be opened in a new tab, from right side panel create input parameter "Supplier" (string) , output parameter "approver" (string) and Save the Process.
  <br>![](/exercises/ex0/images/DeterApp.png)
  6. 
 7.	Insert this code.
