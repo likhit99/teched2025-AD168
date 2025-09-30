@@ -58,10 +58,20 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 7. Because we are using PR Submission Form to Trigger the process, we will remove it from next step. Select Product Information Form, click on three dots, click on Remove and Save the process.
 <br>![](/exercises/ex0/images/RemoveForm.png)
    
+## Script Generation
 
+In this step we will write a custom script using Generative AI to calculate total price value and assign to custom variable.
+
+1. Click on ‘+’ next to Trigger, select Script Task from smart menu,
+<br>![](/exercises/ex0/images/RemoveForm.png)
+
+2. Click on Open Editor, select all existing content and delete it
+<br>![](/exercises/ex0/images/RemoveForm.png)
+
+3. Click on Generate, enter the following prompt "Generate script that calculates totalprice by looping through each element in $.context.form_InputForm_1.itemTable and calculates totalprice by multiplying $.context.form_InputForm_1.itemTable.itemPrice and $.context.form_InputForm_1.itemTable.quantity and convert to string and assign to $.context.custom.totalprice"
 
  
-4.	Insert this code.
+5.	Insert this code.
 ``` abap
  DATA(params) = request->get_form_fields(  ).
  READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
