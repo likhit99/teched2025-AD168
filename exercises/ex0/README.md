@@ -55,8 +55,8 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 <br>![](/exercises/ex0/images/CustomVar.png)<br>
 <br>![](/exercises/ex0/images/ConCustVar.png)
 
-7. Because we are using Product Information Form to Trigger the process, we will remove it from next step. Select Product Information Form, click on three dots, click on Remove and Save the process.
-
+7. Because we are using PR Submission Form to Trigger the process, we will remove it from next step. Select Product Information Form, click on three dots, click on Remove and Save the process.
+<br>![](/exercises/ex0/images/RemoveForm.png)
    
 
 
