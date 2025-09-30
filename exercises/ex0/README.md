@@ -40,9 +40,11 @@ In this step we will generate Purchase Requisition Approval process template usi
 2. Click on "+" button after "Add a Trigger" step. From Smart Menu, select Form.<br>
 <br>![](/exercises/ex0/images/Form.png)
 
+3.	Enter the prompt to generate PR Submission Form "Create PR Submission Form with fields Company, Supplier, Delivery Address, Delivery Date, Payment Terms, Requested By and Department and a table with fields Item, Description, Quantity, Item Price". Click on Save
 
-   
-3.	Insert this code.
+
+ 
+4.	Insert this code.
 ``` abap
  DATA(params) = request->get_form_fields(  ).
  READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
