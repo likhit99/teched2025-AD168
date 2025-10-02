@@ -1,16 +1,22 @@
-# Session ID - Session Title
+# AD168-From prompt to process: AI-accelerated process automation in SAP Build
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2025 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2025 session called AD168 - From prompt to process: AI-accelerated process automation in SAP Build
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to how Generative AI capabilities can accelerate the process automation development in SAP Build . Process developer need to provide just natural language description and process artifacts can be generated without much hussle.
+It also introduces about creation of Process Variants to create a process with preconfigured settings.
+For example, a process variant has most of the mappings already defined and the line of business expert only needs to add a few more to finalize the process.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are :<br>
+
+1. Generative AI should be enabled<br>
+2. Task center and SBPA are configured to be connected
+
 
 ## Exercises
 
