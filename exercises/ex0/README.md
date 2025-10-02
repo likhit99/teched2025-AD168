@@ -14,13 +14,13 @@ Note: Save work with each step just to make sure we do not lose out on any infor
 Login to SAP Build Lobby Navigate to Control Tower and ensure "Enable Generative AI" is enabled.
 <br>![](/exercises/ex0/images/GenAI.png)
 
-## Project Creation
+## Project Creation/Import
 
-1. Login to SAP Build Lobby and Click on create > Process Automation<br>
-<br>![](/exercises/ex0/images/ProjectCreation.png)
+1. Login to SAP Build Lobby and Click on import > Process Automation<br>
+<br>![](/exercises/ex0/images/Import.png)
 
-2.Enter project Name & Description and click Create. This will create a project with given name & description.<br>
-<br>![](/exercises/ex0/images/NameDesc.png)
+2.Browse for the Purchase Order Approval Process project and click on Import. This will import the project.<br>
+<br>![](/exercises/ex0/images/Browse_Project_Import.png)
 
 ## Process Generation
 
