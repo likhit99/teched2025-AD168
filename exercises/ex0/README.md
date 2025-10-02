@@ -17,7 +17,7 @@ Login to SAP Build Lobby Navigate to Control Tower and ensure "Enable Generative
 ## Project Creation/Import
 
 1. Download projects Purchase Order Approval Process.mtar and Purchase Order Approval Process Variants.mtar from
-   ![](/exercises/ex0/images/projects folder to your local directory <br>
+   projects folder to your local directory <br>
    
 2. Login to SAP Build Lobby and Click on import icon<br>
 <br>![](/exercises/ex0/images/Import.png)
