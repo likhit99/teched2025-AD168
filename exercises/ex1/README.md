@@ -1,6 +1,6 @@
-# Exercise 1 - Exercise 1 Description
+# Purchase Order Approval - Process Variants
 
-In this exercise, we will create...
+In this exercise, we will learn how to create different Process Variants for the Purchase Order Approval Process..
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
