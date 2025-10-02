@@ -55,7 +55,7 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 4. Click on Add a Trigger, select Submit a Form, choose the form which we created in the last step and Save.<br>
 <br>![](/exercises/ex0/images/Trigger.png)
 
-5. Click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables, configure a process custom variable "Totalprice" (of string type) and Save the process.<br>
+5. Click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables, configure a process custom variable "Totalprice" (of number type) , "ApprovalStatus" (of string type) and Save the process.<br>
 <br>![](/exercises/ex0/images/CustomVar.png)<br>
 <br>![](/exercises/ex0/images/ConCustVar.png)
 
