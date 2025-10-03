@@ -23,15 +23,15 @@ In this exercise, we will learn how to create different Process Variants for the
 <br>![](/exercises/ex1/images/Add_Default_Variant.png)
 9.Add Department Approval Process step to the Default Variant
 <br>![](/exercises/ex1/images/Add_Dept_Default_Variant.png)
-10..Click on + after the Process , click on Controls and Events and add Branch called "Parallel Branch" to Default Variant
+10.Click on + after the Process , click on Controls and Events and add Branch called "Parallel Branch" to Default Variant
 <br>![](/exercises/ex1/images/Add_Parallel_Branch.png),
 <br>Parallel branches are created so that 2 or more steps can execute simlataneously without waiting for the previous step to compelete. But all the parallel branches have to be completed before next step can proceed though.<br>
-11. Add Steps Finance Approval Process and Legal Department Approval Process as parallel branches
+11.Add Steps Finance Approval Process and Legal Department Approval Process as parallel branches
 <br>![](/exercises/ex1/images/Add_Fin_Legal_Parallel_Branch.png)
-12. Click on + and Add Step Procurement Approval Process. Default Variant finally will look like below:
+12.Click on + and Add Step Procurement Approval Process. Default Variant finally will look like below:
 <br>![](/exercises/ex1/images/Final_Default_Variant.png)
-13. Save the Default Variant<br>
-14. Click on Variables tab and add attributes
+13.Save the Default Variant<br>
+14.Click on Variables tab and add attributes
 <br>![](/exercises/ex1/images/Add_Variables.png)
 15.Add all the attributes from the process context
 <br>![](/exercises/ex1/images/Add_Attributes.png)
@@ -45,14 +45,14 @@ In this exercise, we will learn how to create different Process Variants for the
     8. PaymentTerms<br>
     9. RequestedBy<br>
     10. Supplier<br>
-16. Create 2 Global outcomes, one for approved status and one for rejected status. Global outcomes are the overall outcome of a process variant
-17. Create a global outcome if overall approval status of all the steps in the variant is "Approved"  <br>
+16.Create 2 Global outcomes, one for approved status and one for rejected status. Global outcomes are the overall outcome of a process variant<br>
+17.Create a global outcome if overall approval status of all the steps in the variant is "Approved"  <br>
 <br>![](/exercises/ex1/images/Approved_outcome.png)<br>
 <br>![](/exercises/ex1/images/Approved_outcome_condition.png)<br>
-19. Create another global outcome if overall approval status of all the steps in the variant is "Rejected"  <br>
+18.Create another global outcome if overall approval status of all the steps in the variant is "Rejected"  <br>
 <br>![](/exercises/ex1/images/Rejected_Outcome.png)<br>
 <br>![](/exercises/ex1/images/Rejected_Outcome_Condition.png)<br>
-20.Now , 2 global outcomes depending on the approval status(Approved,Rejected) as condition are created
+19.Now,2 global outcomes depending on the approval status(Approved,Rejected) as condition are created
 <br>![](/exercises/ex1/images/Global_Outcomes.png)
         
 
