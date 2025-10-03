@@ -8,12 +8,18 @@ In this exercise, we will learn how to create different Process Variants for the
 
 ## Create Process Variant Template 
 
-After completing these steps you will have created...
+1. Click on "Purchase Requisition Process" an open <br>
+2. Click on + after "Determine Approver" and choose Variant Template 
+<br>![](/exercises/ex1/images/PV_Create.png)
+3. Give name as "Purchase Order Variant Template" and Save <br>
+4. Click on "Open Variant Template"<br>
+5. Click on "Add Steps" and add all the available steps.
+   <br>![](/exercises/ex1/images/Add_Steps.png)  
+6. Steps available in Variant Editor will look as below:
+   <br>![](/exercises/ex1/images/Available_Steps.png)
+   
 
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
-
-2.	Insert this line of code.
+5.	Insert this line of code.
 ```abap
 response->set_text( |Hello World! | ). 
 ```
