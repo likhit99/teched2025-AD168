@@ -20,7 +20,18 @@ In this exercise, we will learn how to create different Process Variants for the
 7.Click on Variables tab and add attributes
 <br>![](/exercises/ex1/images/Add_Variables.png)
 8.Add all the attributes from the process context
-<br>![](/exercises/ex1/images/Add_Attributes.png)
+    1. ApprovalStatus<br>
+    2. Totalprice
+    3. Approver
+    4. Company
+    5. DeliveryAddress
+    6. DeliveryDate
+    7. Department
+    8. PaymentTerms
+    9. RequestedBy
+    10. Supplier
+        
+
    
 
 
