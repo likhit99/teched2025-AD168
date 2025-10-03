@@ -17,9 +17,11 @@ In this exercise, we will learn how to create different Process Variants for the
 <br>![](/exercises/ex1/images/Add_Steps.png) 
 6. Steps available in Variant Editor will look as below:
 <br>![](/exercises/ex1/images/Available_Steps.png)
-7.Click on Variables tab and add attributes
+7.Click on Default Variant in the General tab and Create a new one with name DefaultVariant
+<br>![](/exercises/ex1/images/Default_Variant.png)
+8.Click on Variables tab and add attributes
 <br>![](/exercises/ex1/images/Add_Variables.png)
-8.Add all the attributes from the process context
+9.Add all the attributes from the process context
 <br>![](/exercises/ex1/images/Add_Attributes.png)
     1. ApprovalStatus<br>
     2. Totalprice
