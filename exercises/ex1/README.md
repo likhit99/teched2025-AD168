@@ -47,7 +47,13 @@ In this exercise, we will learn how to create different Process Variants for the
     10. Supplier<br>
 16. Create 2 Global outcomes, one for approved status and one for rejected status. Global outcomes are the overall outcome of a process variant
 17. Create a global outcome if overall approval status of all the steps in the variant is "Approved"  <br>
-18. Create another global outcome if overall approval status of all the steps in the variant is "Rejected"  <br>
+<br>![](/exercises/ex1/images/Approved_outcome.png)
+<br>![](/exercises/ex1/images/Approved_outcome_condition.png)
+19. Create another global outcome if overall approval status of all the steps in the variant is "Rejected"  <br>
+<br>![](/exercises/ex1/images/Rejected_Outcome.png)
+<br>![](/exercises/ex1/images/Rejected_Outcome_Condition.png)
+20.Now , 2 global outcomes depending on the approval status(Approved,Rejected) as condition are created
+<br>![](/exercises/ex1/images/Global_Outcomes.png)
         
 
    
