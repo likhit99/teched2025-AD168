@@ -64,8 +64,8 @@ In this exercise, we will learn how to create different Process Variants for the
 <br>![](/exercises/ex1/images/Publish_To_Library.png)
 4.Create a Process Automation project in lobby named "Purchase Order Approval - Process Variants"
 <br>![](/exercises/ex1/images/Create_SBPA_Project.png)
-5.Click and go inside the project.
-5.Add Business Process Project Dependency to "Purchase Order Approval Process" by going to Settings->Dependencies->Add a Business Process Project Dependency->Project.
+5.Click and go inside the project.<br>
+6.Add Business Process Project Dependency to "Purchase Order Approval Process" by going to Settings->Dependencies->Add a Business Process Project Dependency->Project.
 <br>![](/exercises/ex1/images/Add_Dependency.png)
 <br>![](/exercises/ex1/images/Add_Dependency_Project.png)
 
