@@ -1,5 +1,4 @@
-# Exercise 2 - Exercise 2 Description
-
+# Deploy and Run Process(Variants)
 In this exercise, we will create...
 
 ## Exercise 2.1 Sub Exercise 1 Description
