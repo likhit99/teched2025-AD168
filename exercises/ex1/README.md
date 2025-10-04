@@ -70,23 +70,26 @@ In this exercise, we will learn how to create different Process Variants for the
 <br>![](/exercises/ex1/images/Add_Dependency_Project.png)
 7.Create a variant named "Two level approval" by clicking on Create Variant <br>
 <br>![](/exercises/ex1/images/Create_Variant.png)
-8.Add 2 levels of approvals, "Department Approval Process" and "Procurement Approval Process"
-<br>![](/exercises/ex1/images/Add_2_levels.png)
-9.Add Start Condition by clicking on "Add Start Condition" and giving condition as "Totalprice is less than 10000"
+8.Add Start Condition by clicking on "Add Start Condition" and giving condition as "Totalprice is less than 10000"
 <br>![](/exercises/ex1/images/Two_Levels_Start_Condition.png)
-10.Add 3 levels of approvals, "Department Approval Process", "Finance Approval Process" and "Procurement Approval Process"
+9.Click on + after Start condition and choose Variant Steps.<br>
+  Add 2 levels of approvals, "Department Approval Process" and "Procurement Approval Process"
+<br>![](/exercises/ex1/images/Add_2_levels.png)
+10.Create a variant named "Three level approvals" by clicking on Create Variant <br>
+Add 3 levels of approvals, "Department Approval Process", "Finance Approval Process" and "Procurement Approval Process"
 <br>![](/exercises/ex1/images/Three_Levels_Approvals.png)
 11.Add Start Condition by clicking on "Add Start Condition" and giving condition as "Totalprice is greater than 10000" and "Totalprice is less than 50000"
 <br>![](/exercises/ex1/images/Three_levels_Start_Condition.png)
-12.View and change the order of the variants.
-13.View and modify the start condition.
-14.Activate and deactivate a variant
-15.Release and deploy all variants.
+12.View and change the order of the variants by clicking on three dots (...) at the end of variant "Two level approvals" and click on Move Down or Move to Bottom.
+<br>![](/exercises/ex1/images/Change_Order_Variants.png)
+13.Order/Priority is changed now. "Three levels of approvals" moves to the top.
+<br>![](/exercises/ex1/images/Order_Change.png)
+14.Activate and deactivate a variant<br>
+15.Release and deploy all variants.<br>
 
 
 
 
-<br>![](/exercises/ex1/images/01_02_0010.png)
 
 
 ## Summary
