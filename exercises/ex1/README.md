@@ -86,6 +86,8 @@ Add 3 levels of approvals, "Department Approval Process", "Finance Approval Proc
 <br>![](/exercises/ex1/images/Order_Change.png)
 14.Deactivate variant by clicking on three dots (...) at the end of variant "Two level approvals" and click on Deactivate
 <br>![](/exercises/ex1/images/Deactivate_Variant.png)
+Variant becomes inactive. 
+<br>![](/exercises/ex1/images/Inactive_Variant.png)
 15.Activate the variant back by clicking on three dots (...) at the end of variant "Two level approvals" and click on Activate
 <br>![](/exercises/ex1/images/Activate_Variant.png)
 16.A variant can be deleted as well by clicking on "Delete".<br>
