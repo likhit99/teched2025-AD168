@@ -68,29 +68,31 @@ In this exercise, we will learn how to create different Process Variants for the
 6.Add Business Process Project Dependency to "Purchase Order Approval Process" by going to Settings->Dependencies->Add a Business Process Project Dependency->Project.
 <br>![](/exercises/ex1/images/Add_Dependency.png)
 <br>![](/exercises/ex1/images/Add_Dependency_Project.png)
-7.Create a variant named "Two level approval" by clicking on Create Variant <br>
+7.Create a Variant management artifact. Default Variant created in the Process Template will automatically appear here. Now, more variants can be created by the Business user here.
+<br>![](/exercises/ex1/images/Variant_Mgmt.png)
+8.Create a variant named "Two level approval" by clicking on Create Variant <br>
 <br>![](/exercises/ex1/images/Create_Variant.png)
-8.Add Start Condition by clicking on "Add Start Condition" and giving condition as "Totalprice is less than 10000"
+9.Add Start Condition by clicking on "Add Start Condition" and giving condition as "Totalprice is less than 10000"
 <br>![](/exercises/ex1/images/Two_Levels_Start_Condition.png)
-9.Click on + after Start condition and choose Variant Steps.<br>
+10.Click on + after Start condition and choose Variant Steps.<br>
   Add 2 levels of approvals, "Department Approval Process" and "Procurement Approval Process"
 <br>![](/exercises/ex1/images/Add_2_levels.png)
-10.Create a variant named "Three level approvals" by clicking on Create Variant <br>
+11.Create a variant named "Three level approvals" by clicking on Create Variant <br>
 Add 3 levels of approvals, "Department Approval Process", "Finance Approval Process" and "Procurement Approval Process"
 <br>![](/exercises/ex1/images/Three_Levels_Approvals.png)
-11.Add Start Condition by clicking on "Add Start Condition" and giving condition as "Totalprice is greater than 10000" and "Totalprice is less than 50000"
+12.Add Start Condition by clicking on "Add Start Condition" and giving condition as "Totalprice is greater than 10000" and "Totalprice is less than 50000"
 <br>![](/exercises/ex1/images/Three_levels_Start_Condition.png)
-12.View and change the order of the variants by clicking on three dots (...) at the end of variant "Two level approvals" and click on Move Down or Move to Bottom.
+13.View and change the order of the variants by clicking on three dots (...) at the end of variant "Two level approvals" and click on Move Down or Move to Bottom.
 <br>![](/exercises/ex1/images/Change_Order_Variants.png)
-13.Order/Priority is changed now. "Three levels of approvals" moves to the top.
+14.Order/Priority is changed now. "Three levels of approvals" moves to the top.
 <br>![](/exercises/ex1/images/Order_Change.png)
-14.Deactivate variant by clicking on three dots (...) at the end of variant "Two level approvals" and click on Deactivate.Status of the variant becomes inactive. 
+15.Deactivate variant by clicking on three dots (...) at the end of variant "Two level approvals" and click on Deactivate.Status of the variant becomes inactive. 
 <br>![](/exercises/ex1/images/Deactivate_Variant.png)
 <br>![](/exercises/ex1/images/Inactive_Variant.png)
-15.Activate the variant back by clicking on three dots (...) at the end of variant "Two level approvals" and click on Activate. Status of the variant becomes valid again. 
+16.Activate the variant back by clicking on three dots (...) at the end of variant "Two level approvals" and click on Activate. Status of the variant becomes valid again. 
 <br>![](/exercises/ex1/images/Activate_Variant.png)
-16.A variant can be deleted as well by clicking on "Delete".<br>
-17.Release and deploy all variants by clicking on "Deploy All".<br>
+17.A variant can be deleted as well by clicking on "Delete".<br>
+18.Release and deploy all variants by clicking on "Deploy All".<br>
 <br>![](/exercises/ex1/images/Deploy_All.png)
 ## Summary
 
