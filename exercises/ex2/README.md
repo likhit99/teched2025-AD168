@@ -16,31 +16,17 @@ After completing these steps you will have released and deployed the project...
 5. Deploy the Variant project  to your Environment that you just now created.
    <br>![](/exercises/ex2/images/Deploy_PO_Approval_PV.png)
    Deployment succeessful message should appear
-   
+  
+## Run the Process 
 
+After completing these steps you will learn how to trigger a process which triggers appropriate variant if configured.
+If there are no variants configured, the process just runs all the steps configured in it.
 
-
-## Exercise 2.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
+1.	Click here.
 <br>![](/exercises/ex2/images/02_02_0010.png)
 
 ## Summary
 
-You've now ...
+You've now learnt how to model a process using Generative AI features, how to model different process variants with outcomes, parallel steps/branches etc.. and last but not the least, how to release, deploy and trigger a process(variant) in SAP Build Process Automation...
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Thank you ! Do reach out to us in case of any other queries.. 
