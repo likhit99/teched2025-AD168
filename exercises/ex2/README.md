@@ -12,18 +12,41 @@ After completing these steps you will have released and deployed the project...
 <br>![](/exercises/ex2/images/Env2.png)
 3.	Deploy the template project to your Environment that you just now created.
    <br>![](/exercises/ex2/images/Deploy_Template_Project.png)
-  	Deployment succeessful message should appear
-5. Deploy the Variant project  to your Environment that you just now created.
+  	Deployment succeessful message should appear<br>
+4. Deploy the Variant project  to your Environment that you just now created.
    <br>![](/exercises/ex2/images/Deploy_PO_Approval_PV.png)
-   Deployment succeessful message should appear
+   Deployment succeessful message should appear<br>
   
 ## Run the Process 
 
 After completing these steps you will learn how to trigger a process which triggers appropriate variant if configured.
 If there are no variants configured, the process just runs all the steps configured in it.
 
-1.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
+1.	Click on Control Tower and the Environnment you created in the previous step.
+<br>![](/exercises/ex2/images/ClickEnv.png)
+2. Click on More->Processes and Workflows<br>
+3. Click on Search and give "Purchase Req"<br>
+4.Choose the latest version of "Purchase Requisition Process"<br>
+5.Click on Start New Instance<br>
+<br>![](/exercises/ex2/images/Start_New_instance.png)
+6.Provide the payload , sample payload below :<br>
+~
+Payload
+ {
+        "company": "SAP",
+        "supplier": "1710",
+        "deliveryAddress": "SAP",
+        "deliveryDate": "2025-10-06",
+        "paymentTerms": "Credit",
+        "requestedBy": "SAP BTP",
+        "department": "BTP",
+        "items": [
+            
+        ]
+    }
+
+~
+7. Click on "Start New Instance and Close "<br>
 
 ## Summary
 
