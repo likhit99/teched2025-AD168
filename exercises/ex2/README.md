@@ -30,7 +30,7 @@ If there are no variants configured, the process just runs all the steps configu
 5.Click on Start New Instance<br>
 <br>![](/exercises/ex2/images/Start_New_instance.png)
 6.Provide the payload , sample payload below :<br>
-~
+~[
 Payload
  {
         "company": "SAP",
@@ -45,7 +45,7 @@ Payload
         ]
     }
 
-~
+~]
 7. Click on "Start New Instance and Close "<br>
 
 ## Summary
