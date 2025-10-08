@@ -130,11 +130,11 @@ and calculates totalprice by multiplying $.context.startEvent.items.itemPrice an
  iv. Text Field - Rename title as “Total Price” and make it required on right side configuration.<br>
  <br>![](/exercises/ex0/images/ApprovPurchase.png)
 
- 3.Come back to main process(Purchase Requisition tab) and select Approval Form. 
- 
-4. On the right-hand panel under General tab, enter “Approve Purchase Requisition” as subject and map approver from Determine Approver step to Recipient users, and Save the Process<br>
-  <br>![](/exercises/ex0/images/MapApprover.png)
+ 3.Come back to main process(Purchase Requisition tab) and select Approval Form.
 
+ 4. On the right-hand panel under General tab, enter “Approve Purchase Requisition” as subject and map approver from Determine Approver step to Recipient users, and Save the Process<br>
+ <br>![](/exercises/ex0/images/MapApprover.png)
+ 
  5.On the right-hand panel under Inputs tab, map following fields, and Save the process. 
  
  • Quantity – with quantity from Trigger Form 
