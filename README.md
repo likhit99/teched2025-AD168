@@ -10,6 +10,18 @@ This session introduces attendees to how Generative AI capabilities can accelera
 It also introduces about creation of Process Variants to create a process with preconfigured settings.
 For example, a process variant has most of the mappings already defined and the line of business expert only needs to add a few more to finalize the process.
 
+## Usecase
+
+We will take the typical Purchase Order Approval Process which will involve the following steps :
+1) Submit Purchase Requisition
+2) Calculate Total price of all items 
+3) Determine Approver 
+4) Department Approval
+5) Finance/Legal Approvals
+6) Procurement Approvals
+7) CEO/CFO Approval
+8) Send Notification for Purchase Order creation
+
 ## Requirements
 
 The requirements to follow the exercises in this repository are :<br>
