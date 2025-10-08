@@ -119,7 +119,7 @@ and calculates totalprice by multiplying $.context.startEvent.items.itemPrice an
  1. Click on three dots next to Approval Form and click on Open Editor.
  <br>![](/exercises/ex0/images/AppFormOpenEdit.png)<br>
 
- In the form editor, drag and drop from left panel four components in following sequence and Save the process.
+ 2.In the form editor, drag and drop from left panel four components in following sequence and Save the process.
  
  i. H1 - Headline 1 - Enter “Approve Purchase Requisition”.
  
@@ -128,7 +128,12 @@ and calculates totalprice by multiplying $.context.startEvent.items.itemPrice an
  iii. Number Field - Rename title as “Quantity” and make it required on right side configuration. 
  
  iv. Text Field - Rename title as “Total Price” and make it required on right side configuration.<br>
- <br>![](/exercises/ex0/images/ApprovPurchase.png)<br>
+ <br>![](/exercises/ex0/images/ApprovPurchase.png)
+
+ 3.Come back to main process(Purchase Requisition tab) and select Approval Form. 
+ 4. On the right-hand panel under General tab, enter “Approve Purchase Requisition” as subject and map approver from Determine Approver step to Recipient users, and Save the Process<br>
+  <br>![](/exercises/ex0/images/ApprovPurchase.png)
+ 
 
 ## Summary
 
