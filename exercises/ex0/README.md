@@ -117,14 +117,14 @@ and calculates totalprice by multiplying $.context.startEvent.items.itemPrice an
  In the step we will modify Approval Form and map it with input field & calculated variables.
 
  1. Click on three dots next to Approval Form and click on Open Editor.
- <br>![](/exercises/ex0/images/RulePrompt.png)<br>
+ <br>![](/exercises/ex0/images/AppFormOpenEdit.png)<br>
 
  In the form editor, drag and drop from left panel four components in following sequence and Save the process.
  i. H1 - Headline 1 - Enter “Approve Purchase Requisition”. 
  ii. Text Field - Rename title as “Supplier” and make it required on right side configuration. 
  iii. Number Field - Rename title as “Quantity” and make it required on right side configuration. 
  iv. Text Field - Rename title as “Total Price” and make it required on right side configuration.
- <br>![](/exercises/ex0/images/RulePrompt.png)<br>
+ <br>![](/exercises/ex0/images/ApprovPurchase.png)<br>
 
 ## Summary
 
