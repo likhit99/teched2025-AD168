@@ -132,7 +132,16 @@ and calculates totalprice by multiplying $.context.startEvent.items.itemPrice an
 
  3.Come back to main process(Purchase Requisition tab) and select Approval Form. 
  4. On the right-hand panel under General tab, enter “Approve Purchase Requisition” as subject and map approver from Determine Approver step to Recipient users, and Save the Process<br>
-  <br>![](/exercises/ex0/images/ApprovPurchase.png)
+  <br>![](/exercises/ex0/images/MapApprover.png)
+
+ 5.On the right-hand panel under Inputs tab, map following fields, and Save the process. 
+ 
+ • Quantity – with quantity from Trigger Form 
+ 
+ • Supplier – with supplier from Trigger Form 
+ 
+ • Total Price – with total price from Custom Variable<br>
+ <br>![](/exercises/ex0/images/MapApprover.png)
  
 
 ## Summary
