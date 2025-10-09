@@ -9,6 +9,12 @@ In this exercise we will learn how to use Joule for Developers/Generative AI cap
 
 Note: Save work with each step just to make sure we do not lose out on any information.
 
+## Details of tenant and login
+
+Lobby URL - https://ad168-skhq09xc.eu10.build.cloud.sap/lobby <br>
+User id - AD168-XXX@education.cloud.sap.. Replace XXX with your user number, say for example your number is given as 001, it will be AD168-001 and so on.. <br>
+Password - Adm1nteched25
+
 ## Enable Generative AI option
 
 Login to SAP Build Lobby Navigate to Control Tower and ensure "Enable Generative AI" is enabled.
