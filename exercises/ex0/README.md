@@ -71,6 +71,7 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 4. Click on Save.<br>
 <br>![](/exercises/ex0/images/Save.png)
 5. Click anywhere on the canvas and then click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables and click on Configure for Process Input Variables.
+   <br>![](/exercises/ex0/images/CustomVar.png)<br>
 6. Click on Add Input and add the following attributes of appropriate type(string, number and so on) as shown below.
 <br>![](/exercises/ex0/images/Configure_Process_Inputs.png) 
 7. Click on Add a Trigger, select API Trigger, give it a name "Purchase Order Process Trigger" and click on Create.<br>
