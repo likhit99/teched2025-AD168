@@ -2,18 +2,19 @@
 
 In this exercise we will learn how to use Joule for Developers/Generative AI capabilities of SAP Build in Process Automation.<br>
 
-Pre-requisites
-1.[How to Login]()<br>
-2.[How to Enable Generative AI]()
+Pre-requisites <br>
+1.[How to Login](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#details-of-tenant-and-login)<br>
+2.[How to Enable Generative AI](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#enable-generative-ai-option)
+3.[How to import Project)[https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#project-creationimport]
 
 
 We will use following features to create a Purchase Order Approval process:
 
 1. [Generate Process Template](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#process-generation)<br>
-2. [Generate Data Type]()<br>
-3. [Generate Form<]()br>
-4. [Generate Script]()<br>
-5. [Generate Business Rules]()<br>
+2. [Generate Data Type](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#data-type-generation)<br>
+3. [Generate Form<](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#form-generation)br>
+4. [Generate Script](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#script-generation)<br>
+5. [Generate Business Rules](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#rules-generation)<br>
 
 Note: Save work with each step just to make sure we do not lose out on any information.
 
