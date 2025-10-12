@@ -4,8 +4,9 @@ In this exercise we will learn how to use Joule for Developers/Generative AI cap
 
 1. Generate Process Template<br>
 2. Generate Form<br>
-3. Generate Script<br>
-4. Generate Business Rules<br>
+3. Generate Data Type<br>
+4. Generate Script<br>
+5. Generate Business Rules<br>
 
 Note: Save work with each step just to make sure we do not lose out on any information.
 
@@ -47,6 +48,15 @@ In this step we will generate Purchase Order Approval process using Generative A
 
  System will create a process template and open design editor to continue designing the process<br> 
 
+## Data Type Generation
+In this step we will generate Data Type for Items as a list using Generative AI.
+1.  Click on Generate and select Datatype<br>
+<br>![](/exercises/ex0/images/Generate_DT.png)
+2. Enter the prompt to generate Items Datatype as "Generate Data Type named "Items" of type list with fields Item of type string, Description of type string, Quantity of type number, Item Price of type number"
+<br>![](/exercises/ex0/images/DT_Prompt.png)
+3. Items Data type gets generated as below
+   <br>![](/exercises/ex0/images/Items_DT.png)
+
 ## Form Generation
 
 In this step we will generate a form using Generative AI and use it as Trigger Form to start the process.
@@ -60,16 +70,18 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 3. Once the form is generated, provide the Subject and Recipients information <br>![](/exercises/ex0/images/Fill_Form_Mandatory_Params.png) 
 4. Click on Save.<br>
 <br>![](/exercises/ex0/images/Save.png)
-
-5. Click on Add a Trigger, select API Trigger, give it a name "Purchase Order Process Trigger" and click on Create.<br>
+5. Click anywhere on the canvas and then click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables and click on Configure for Process Input Variables.
+6. Click on Add Input and add the following attributes of appropriate type(string, number and so on) as shown below.
+<br>![](/exercises/ex0/images/Configure_Process_Inputs.png) 
+7. Click on Add a Trigger, select API Trigger, give it a name "Purchase Order Process Trigger" and click on Create.<br>
 <br>![](/exercises/ex0/images/API_Trigger.png)
 <br>![](/exercises/ex0/images/Create_API_Trigger.png)
-
-6. Click anywhere on the canvas and then click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables, configure a process custom variable "Totalprice" (of number type) , "ApprovalStatus" (of string type) and Save the process.<br>
+   
+8.  Click anywhere on the canvas and then click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables, configure process custom variables "Totalprice" (of number type) , "ApprovalStatus" (of string type) and Save the process.<br>
 <br>![](/exercises/ex0/images/CustomVar.png)<br>
 <br>![](/exercises/ex0/images/CustomVariables_Configure.png)
 
-7.Click on PR Submission Form and Click on Inputs tab. Map all the attributes from Process Inputs<br>
+9. Click on PR Submission Form and Click on Inputs tab. Map all the attributes from Process Inputs<br>
 Company, Delivery Address, Delivery Date, Department, Items, Payment Terms, Requested By, Supplier<br>
 <br>![](/exercises/ex0/images/MapInput_Variables.png)
 
