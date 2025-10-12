@@ -26,8 +26,8 @@ In this exercise, we will learn how to create different Process Variants for the
 <br>![](/exercises/ex1/images/Add_Dept_Default_Variant.png)
 10.Click on + after the  Department Approval Process , click on Controls and Events and add Branch called "Parallel Branch" to Default Variant
 <br>![](/exercises/ex1/images/Add_Parallel_Branch.png),
-<br>Parallel branches are created so that 2 or more steps can execute simlataneously without waiting for the previous step to compelete. But all the parallel branches have to be completed before next step can proceed though.<br>
-11.Add Steps Finance Approval Process and Legal Department Approval Process as parallel branches , if they are not visible, click on "Show All" to see all taht is available.
+<br>Parallel branches are created so that 2 or more steps can execute simlataneously. But all the parallel branches have to be completed before next step can proceed though.<br>
+11.Add Steps Finance Approval Process and Legal Department Approval Process as parallel branches , if they are not visible, click on "Show All" to see all the processes that are available.
 <br>![](/exercises/ex1/images/Add_Fin_Legal_Parallel_Branch.png)
 12.Click on + and Add Step Procurement Approval Process. Default Variant finally will look like below:
 <br>![](/exercises/ex1/images/Final_Default_Variant.png)
