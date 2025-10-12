@@ -12,10 +12,11 @@ Note: Save work with each step just to make sure we do not lose out on any infor
 ## Details of tenant and login
 
 Lobby URL - https://ad168-skhq09xc.eu10.build.cloud.sap/lobby <br>
+Sign in with tdct3ched1.accounts.ondemand.com and not the Default Identity Provider <br>
    User id - AD168-XXX@education.cloud.sap  <br>
-   Password - Adm1nteched25 <br>
+   Password - Acce$$teched25 <br>
 Replace XXX with your user number, say for example your number is given as 001, it will be AD168-001 and so on..<br>
-Sign in with tdct3ched1.accounts.ondemand.com and not the Default Identity Provider
+
 
 ## Enable Generative AI option
 
