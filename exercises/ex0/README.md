@@ -55,10 +55,11 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 2.	Enter the prompt to generate PR Submission Form "Create PR Submission Form with fields Company, Supplier, Delivery Address, Delivery Date, Payment Terms, Requested By and Department and a table with fields Item, Description, Quantity, Item Price".<br>
 <br>![](/exercises/ex0/images/PRSubForm.png)
 
-3. Once the form is generated, Click on Save.<br>
+3. Once the form is generated, map the Subject and Recipients information <br>![](/exercises/ex0/images/Fill_Form_Mandatory_Params.png) 
+4. Click on Save.<br>
 <br>![](/exercises/ex0/images/Save.png)
 
-4. Click on Add a Trigger, select API Trigger, give it a name "Purchase Order Process Trigger" and click on Create.<br>
+5. Click on Add a Trigger, select API Trigger, give it a name "Purchase Order Process Trigger" and click on Create.<br>
 <br>![](/exercises/ex0/images/API_Trigger.png)
 <br>![](/exercises/ex0/images/Create_API_Trigger.png)
 
