@@ -10,12 +10,13 @@ In this exercise we will learn how to use Joule for Developers/Generative AI cap
 Note: Save work with each step just to make sure we do not lose out on any information.
 
 ## Details of tenant and login
-
-Lobby URL - https://ad168-skhq09xc.eu10.build.cloud.sap/lobby <br>
-Sign in with tdct3ched1.accounts.ondemand.com and not the Default Identity Provider <br>
-   User id - AD168-XXX@education.cloud.sap  <br>
-   Password - Acce$$teched25 <br>
-Replace XXX with your user number, say for example your number is given as 001, it will be AD168-001 and so on..<br>
+<ul>
+<li>Lobby URL - https://ad168-skhq09xc.eu10.build.cloud.sap/lobby <br>
+<li>Sign in with tdct3ched1.accounts.ondemand.com and not the Default Identity Provider <br>
+  <li> User id - AD168-XXX@education.cloud.sap  <br>
+  <li> Password - Acce$$teched25 <br>
+<li>Replace XXX with your user number, say for example your number is given as 001, it will be AD168-001 and so on..<br>
+</ul>
 
 
 ## Enable Generative AI option
