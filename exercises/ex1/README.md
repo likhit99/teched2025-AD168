@@ -4,7 +4,7 @@ In this exercise, we will learn how to create different Process Variants for the
 
 1. Variant Template Editor - Template developer is usually a pro developer and creates the variant template, the default variant.<br>
 
-2. Variant Management Editor - Variant user - usually a business configuration expert - accesses the variant management editor from the tile in your SAP Build Work Zone, standard edition site and creates and defines the order of the variants<br>
+2. Variant Management Editor - Variant user - usually a business configuration expert - accesses the variant management editor and creates and defines the order of the variants<br>
 
 ## Create Process Variant Template 
 
