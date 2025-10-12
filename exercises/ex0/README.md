@@ -3,8 +3,8 @@
 In this exercise we will learn how to use Joule for Developers/Generative AI capabilities of SAP Build in Process Automation. We will use following features to create a Purchase Order Approval process:
 
 1. Generate Process Template<br>
-2. Generate Form<br>
-3. Generate Data Type<br>
+2. Generate Data Type<br>
+3. Generate Form<br>
 4. Generate Script<br>
 5. Generate Business Rules<br>
 
