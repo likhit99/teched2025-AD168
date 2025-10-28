@@ -58,7 +58,7 @@ In this step we will generate Purchase Order Approval process using Generative A
 
 ## Data Type Generation
 In this step we will generate Data Type for Items as a list using Generative AI.
-1.  Go Back to Overview tab, click on Generate and select Datatype<br>
+1.  Go Back to "Overview" tab, click on Generate and select Datatype<br>
 <br>![](/exercises/ex0/images/Generate_DT.png)
 2. Enter the prompt to generate Items Datatype as "Generate Data Type named "Items" of type list with fields Item of type string, Description of type string, Quantity of type number, ItemPrice of type number"
 <br>![](/exercises/ex0/images/DT_Prompt.png)
@@ -69,7 +69,7 @@ In this step we will generate Data Type for Items as a list using Generative AI.
 
 In this step we will generate a form using Generative AI and use it as Trigger Form to start the process.
 
-1. Click on "+" button after "Add a Trigger" step. From Smart Menu, select Form.<br>
+1. Go Back to "Purchase Requision Process" tab, click on "+" button after "Add a Trigger" step. From Smart Menu, select Form.<br>
 <br>![](/exercises/ex0/images/Form.png)
 
 2.	Enter the prompt to generate PR Submission Form "Create PR Submission Form with fields Company, Supplier, Delivery Address, Delivery Date, Payment Terms, Requested By and Department and a table with fields Item, Description, Quantity, Item Price".<br>
