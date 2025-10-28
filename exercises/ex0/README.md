@@ -86,7 +86,7 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 <br>![](/exercises/ex0/images/API_Trigger.png)
 <br>![](/exercises/ex0/images/Create_API_Trigger.png)
    
-8.  Click anywhere on the canvas and then click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables, configure process custom variables "Totalprice" (of number type) , "ApprovalStatus" (of string type) and Save the process.<br>
+8.  Click anywhere on the canvas and then click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables, configure process custom variables "Totalprice" (of number type) , "ApprovalStatus" (of string type) click on apply and Save the process.<br>
 <br>![](/exercises/ex0/images/CustomVar.png)<br>
 <br>![](/exercises/ex0/images/CustomVariables_Configure.png)
 
