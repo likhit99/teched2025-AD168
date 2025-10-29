@@ -24,7 +24,7 @@ If there are no variants configured, the process just runs all the steps configu
 
 1.	Click on Control Tower-> Environemnts tab and the Environnment you created in the previous step.
 <br>![](/exercises/ex2/images/ClickEnv.png)
-2. Click on More->Processes and Workflows<br>
+2. Click on More->Processes and Workflows or if you are seeing directly Processes and Workflows, click on that <br>
 3. Click on Search and give "Purchase Req"<br>
 4.Choose the latest version of "Purchase Requisition Process"<br>
 5.Click on Start New Instance<br>
