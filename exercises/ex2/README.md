@@ -22,7 +22,7 @@ After completing these steps you will have released and deployed the project...
 After completing these steps you will learn how to trigger a process which triggers appropriate variant if configured.
 If there are no variants configured, the process just runs all the steps configured in it.
 
-1.	Click on Control Tower and the Environnment you created in the previous step.
+1.	Click on Control Tower-> Environemnts tab and the Environnment you created in the previous step.
 <br>![](/exercises/ex2/images/ClickEnv.png)
 2. Click on More->Processes and Workflows<br>
 3. Click on Search and give "Purchase Req"<br>
