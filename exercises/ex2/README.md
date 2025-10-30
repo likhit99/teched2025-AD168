@@ -40,7 +40,12 @@ If there are no variants configured, the process just runs all the steps configu
         "requestedBy": "SAP BTP",
         "department": "BTP",
         "items": [
-            
+                {
+                "Item": "Laptop",
+                "Description": "Laptop",
+                "Quantity": 100,
+                "ItemPrice": 80
+            }            
         ]
     }
 
