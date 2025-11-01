@@ -27,12 +27,6 @@ Note: Save work with each step just to make sure we do not lose out on any infor
 <li>Replace XXX with your user number, say for example your number is given as 001, it will be AD168-001 and so on..<br>
 </ul>
 
-
-## Enable Generative AI option
-
-Login to SAP Build Lobby Navigate to Control Tower and ensure "Enable Generative AI" is enabled.
-<br>![](/exercises/ex0/images/GenAI.png)
-
 ## Project Creation/Import
 
 1. Download projects "Purchase Order Approval Process.mtar" from [projects folder](https://github.com/SAP-samples/teched2025-AD168/tree/main/exercises/ex0/projects) to your local directory <br>
