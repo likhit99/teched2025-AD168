@@ -69,7 +69,7 @@ Repeat this for all steps except Send Notification step.<br>
 2.Go to Lobby and choose the latest released version of the project "Purchase Order Approval Process.<br>
 3.Do a Publish  to Library of the project so that it can be added as dependency to the Variant Management project which we will be creating now
 <br>![](/exercises/ex1/images/Publish_To_Library.png)
-4.Create a Process Automation project in lobby named "Purchase Order Approval - Process Variants"
+4.Create a Process Automation project in lobby named "Purchase Order Approval - Process Variants AD168_XXX" where XXX is your user name.
 <br>![](/exercises/ex1/images/Create_SBPA_Project.png)
 5.Click and go inside the project.<br>
 6.Add Business Process Project Dependency to "Purchase Order Approval Process" by going to Settings->Dependencies->Add a Business Process Project Dependency->Project.
