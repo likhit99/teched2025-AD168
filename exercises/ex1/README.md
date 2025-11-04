@@ -111,10 +111,9 @@ Default Variant created in the Process Template will automatically appear here.
 19.Activate the variant back by clicking on three dots (...) at the end of variant "Two level approvals" and click on Activate. Status of the variant becomes valid again. 
 <br>![](/exercises/ex1/images/Activate_Variant.png)
 20.A variant can be deleted as well by clicking on "Delete".<br>
-21.Release and deploy the variants.<br>
+21.Release the variants.<br>
 <br>![](/exercises/ex1/images/ReleaseVar.png)<br>
 <br>![](/exercises/ex1/images/ShowProVer.png)<br>
-<br>![](/exercises/ex1/images/DepVar.png)
 
 ## Summary
 
