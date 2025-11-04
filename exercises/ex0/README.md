@@ -47,7 +47,7 @@ In this step we will generate Purchase Order Approval process using Generative A
 2. Click on Generate and select Process<br>
 <br>![](/exercises/ex0/images/GenProc.png)
 
-2.Enter following prompt "Generate empty Process for Purchase Requisition" and click on send icon<br>
+3.Enter following prompt "Generate empty Process for Purchase Requisition" and click on send icon<br>
 <br>![](/exercises/ex0/images/GenProcPromt.png)
 
  System will create a process template and open design editor to continue designing the process<br> 
