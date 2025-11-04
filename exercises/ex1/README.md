@@ -95,7 +95,8 @@ Default Variant created in the Process Template will automatically appear here.
 12) Go to "Purchase Order Variants" Create another variant named "Three level approvals" by clicking on Create Variant <br>
 <br>![](/exercises/ex1/images/ThreeLev.png)
 13) Add 3 levels of approvals, "Department Approval Process", "Finance Approval Process" and "Procurement Approval Process"
-<br>![](/exercises/ex1/images/Three_Levels_Approvals.png)<br>
+<br>![](/exercises/ex1/images/Three_Levels_Approvals.png)
+
 14.Click on "Department Approval Procees" go to "Step Configuration" and map the "Approver" to the "Approver" from Process Inputs. Repete this step for "Porcurement Approval Process" and "Finance Approval Process".
 
 15.Add Start Condition by clicking on "Add Start Condition" and giving condition as "Totalprice is greater than 10000" and "Totalprice is less than 50000" press "Apply" and save.
