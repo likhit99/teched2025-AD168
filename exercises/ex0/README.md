@@ -4,7 +4,7 @@ In this exercise we will learn how to use Joule for Developers/Generative AI cap
 
 Pre-requisites <br>
 1.[How to Login](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#details-of-tenant-and-login)<br>
-2.[Save as New Project](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#project-creationimport)
+2.[Save as New Project](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#SaveAsNewProject)
 
 
 We will use following features to create a Purchase Order Approval process:
@@ -32,13 +32,6 @@ Note: Save work with each step just to make sure we do not lose out on any infor
 Click on Versions tab and choose Editable and click on ... and do "Save as New Project"
 <br>![](/exercises/ex0/images/SaveAsNewProject.png)
    
-3. Login to SAP Build Lobby and Click on import icon<br>
-<br>![](/exercises/ex0/images/Import.png)
-
-3.Browse for the downloaded Purchase Order Approval Process project and click on Import. This will import the project.<br>
-In the interest of time, project already has predefined sub-processes and approval forms to help in the Process Variants creation in the next exercise.
-<br>![](/exercises/ex0/images/Browse_Project_Import.png)
-
 ## Process Generation
 
 In this step we will generate Purchase Order Approval process using Generative AI.
