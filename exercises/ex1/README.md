@@ -53,7 +53,7 @@ Repeat this for all steps except Send Notification step.<br>
 <br>![](/exercises/ex1/images/Add_Attributes.png)
     1. ApprovalStatus  (From the custom variables) <br>
     2. Totalprice (From the custom variables)<br>
-    3. Approver<br>
+    3. Approver<br> (From the decision)<br>
     4. Company<br>
     5. DeliveryAddress<br>
     6. DeliveryDate<br>
