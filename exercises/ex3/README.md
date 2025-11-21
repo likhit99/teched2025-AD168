@@ -1,9 +1,9 @@
 # Intelligent Approval Recommendations 
 
-In this exercise we will see how **Intelligent Recommendation Capability** of **SAP Build Process Automation** assist users in making decision to approve or reject specific tasks.<br>
+In this exercise we will see how **Intelligent Recommendation** feature of **Process Automation** capability of **SAP Build** assist users in making decision to approve or reject specific tasks.<br>
 
 # Context
-**Intelligent recommendation** in SAP Build Process Automation help users make informed decisions on tasks. These recommendations are powered by a trained AI model that analyzes task details and generates a confidence level (a numeric value indicating the likelihood of a correct decision). Users can view this confidence level for each assigned task, allowing them to assess the AI's suggestion and confidently proceed with their approval or rejection actions.
+**Intelligent recommendation** in Process Automation help users make informed decisions on tasks. These recommendations are powered by a trained AI model that analyzes task details and generates a confidence level (a numeric value indicating the likelihood of a correct decision). Users can view this confidence level for each assigned task, allowing them to assess the AI's suggestion and confidently proceed with their approval or rejection actions.
 
 ## Details of tenant and login
 <ul>
