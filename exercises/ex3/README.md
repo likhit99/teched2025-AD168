@@ -6,13 +6,13 @@ In this exercise we will see how **Intelligent Recommendation** feature of **Pro
 **Intelligent recommendation** in Process Automation help users make informed decisions on tasks. These recommendations are powered by a trained AI model that analyzes task details and generates a confidence level (a numeric value indicating the likelihood of a correct decision). Users can view this confidence level for each assigned task, allowing them to assess the AI's suggestion and confidently proceed with their approval or rejection actions.
 
 ## Details of tenant and login
-<ul>
-<li> Click [Task Center URL](https://ad168-skhq09xc.launchpad.cfapps.eu10.hana.ondemand.com/site?siteId=0e6b844f-5e77-423d-b661-31875a69365e#Shell-home)
-<li>Sign in with **tdct3ched1.accounts.ondemand.com** and not the Default Identity Provider <br>
-  <li> User id - **AD168-045@education.cloud.sap**  <br>
-  <li> Password - **TechEd25onTour!** <br>
-<li>If signed in with your user number(used for previous exercise), please sign out and sign in again with the above credentials.<br>
-</ul>
+
+1. Click to open [Task Center](https://ad168-skhq09xc.launchpad.cfapps.eu10.hana.ondemand.com/site?siteId=0e6b844f-5e77-423d-b661-31875a69365e#Shell-home)
+2. Sign in with **tdct3ched1.accounts.ondemand.com** and not the Default Identity Provider
+3. User id - **AD168-045@education.cloud.sap**  
+4. Password - **TechEd25onTour!** 
+    - If already signed in with your user number(used for previous exercise), please sign-out and sign-in again with the above credentials.
+
 
 ## Intelligent Recommendation Creation for Specific Task (Already done): <br>
 
